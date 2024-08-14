@@ -25,3 +25,5 @@ Sales by Age groups: This shows the relationship between different ranges of age
 Outcome
 
 The analysis showed us that the prominent age group that spent the most during this period was between 26 and 35. We also investigated that males were spending more than females. Lastly, we saw that urban areas had high purchase densities, whilst appealing to younger groups
+
+
