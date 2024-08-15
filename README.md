@@ -1,5 +1,6 @@
 # BlackFridaySalesAnalysis
 Link to data source:(https://www.kaggle.com/datasets/yassermessahli/black-friday-sales)
+
 The project is an analysis of the Black Friday event. It utilizes sales data to bring to light insights and various purchasing behaviors across various groups. The analysis consists of data preprocessing using Python and visualizations using Tableau
 
 Tools and Technologies 
